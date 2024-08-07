@@ -24,7 +24,7 @@ bilibili：BV1c4411e77t
 
 ## Python 机器学习
 
-bilibili：BV1PN4y1V7d9
+bilibili：BV1ug4y1t7Ty
 
 ### 学习时间：未定
 
